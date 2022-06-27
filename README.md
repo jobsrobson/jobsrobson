@@ -3,7 +3,7 @@
 ### Olá mundo! 👋
 <br> 
   
-🙋‍♂️ Meu nome é Robson Ricardo
+🙋‍♂️ Meu nome é Robson Ricardo.
  
 🌎 Tenho 25 anos e moro em Brasília, Distrito Federal - Brasil.
  
