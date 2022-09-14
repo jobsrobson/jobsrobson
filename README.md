@@ -5,7 +5,7 @@
   
 🙋‍♂️ Meu nome é Robson Ricardo.
  
-🌎 Tenho 25 anos e moro em Brasília, Distrito Federal - Brasil.
+🌎 Tenho 26 anos e moro em Brasília, Distrito Federal - Brasil.
  
 🎓 Sou estudante de Ciência de Dados e Inteligência Artificial no Instituto de Educação Superior de Brasília - IESB.
   
