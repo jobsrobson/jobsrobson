@@ -9,8 +9,6 @@
  
 🎓 Sou estudante de Ciência de Dados e Inteligência Artificial no Instituto de Educação Superior de Brasília - IESB.
   
-🙃 Também sou publicitário.
-
 <br>
  
 #### Ferramentas que utilizo
