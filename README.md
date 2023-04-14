@@ -12,17 +12,22 @@
 <br>
  
 #### Ferramentas que utilizo
-<div style="display: inline_block">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/PYTHON-215179?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="Pandas" src="https://img.shields.io/badge/PANDAS-e70488?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-29b6f6?style=for-the-badge&logo=Visual+Studio+Code&logoColor=white"/>
-  <img align="center" alt="Power BI" src="https://img.shields.io/badge/POWER_BI-ffc107?style=for-the-badge&logo=Power+BI&logoColor=black"/>
-  
+
+<a href="#"><img src="https://github.com/jobsrobson/jobsrobson/blob/main/img/png/1SAS.png" alt="SAS" style="height:25px;"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/SASViya.svg" alt="SAS Viya" style="height:25px"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/PowerBI.svg" alt="Power BI" style="height:25px"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Excel.svg" alt="Excel" style="height:25px"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Python.svg" alt="Python" style="height:25px"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Jupyter.svg" alt="C" style="height:25px"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Pandas.svg" alt="Pandas" style="height:25px"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/C.svg" alt="C" style="height:25px"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/MySQL.svg" alt="MySQL" style="height:25px"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/PostgreSQL.svg" alt="PostgreSQL" style="height:25px"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Arduino.svg" alt="Arduino" style="height:25px"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/VisualCode.svg" alt="Visual Code" style="height:25px"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Linux.svg" alt="Linux" style="height:25px"></a>
 
 #### Entre em contato comigo 
-[![E-mail](https://img.shields.io/badge/E--mail-d83b01?style=for-the-badge&logo=Mail.Ru&logoColor=white
-)](mailto:robsonricardo@pm.me)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/robsonricardo/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/jobsrobson/)
+<a href="mailto:robsonricardo@pm.me"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Email.svg" alt="E-mail" style="height:25px"></a>
+<a href="https://www.linkedin.com/in/robsonricardo/"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/LinkedIn.svg" alt="LinkedIn" style="height:25px"></a>
+<a href="https://mastodon.social/@jobsrobson"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Mastodon.svg" alt="Mastodon" style="height:25px"></a>
