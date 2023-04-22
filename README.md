@@ -30,4 +30,4 @@
 #### Entre em contato comigo 
 <a href="mailto:robsonricardo@pm.me"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Email.svg" alt="E-mail" style="height:25px"></a>
 <a href="https://www.linkedin.com/in/robsonricardo/"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/LinkedIn.svg" alt="LinkedIn" style="height:25px"></a>
-<a href="https://mastodon.social/@jobsrobson"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Mastodon.svg" alt="Mastodon" style="height:25px"></a>
+<a rel="me" href="https://mastodon.social/@jobsrobson"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Mastodon.svg" alt="Mastodon" style="height:25px"></a>
