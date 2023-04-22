@@ -13,7 +13,7 @@
  
 #### Ferramentas que utilizo
 
-<a href="#"><img src="https://github.com/jobsrobson/jobsrobson/blob/main/img/png/1SAS.png" alt="SAS" style="height:25px;"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/SAS.svg" alt="SAS" style="height:25px;"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/SASViya.svg" alt="SAS Viya" style="height:25px"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/PowerBI.svg" alt="Power BI" style="height:25px"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Excel.svg" alt="Excel" style="height:25px"></a>
